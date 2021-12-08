@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami Benyelles</h1>
-<h3 align="center">An ardent frontend developer from Algeria</h3>
+<h3 align="center">I am an ardent frontend developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samibenyelles&label=Profile%20views&color=0e75b6&style=flat" alt="samibenyelles" /> </p>
 
